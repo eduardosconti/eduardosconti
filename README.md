@@ -2,11 +2,7 @@
 
 📖 **Currently studying** Computer Science on CIn - UFPE;
 
-🌱 **Learning:** MongoDB, TypeScript and Lua;
-
-🆘 **I’m looking for help** with my graduation (lol)
-
-💬 **Social Networks:** [Instagram](https://www.instagram.com/eduardosconti); 
+🌱 **Learning:** Node, bootstrap;
 
 💬 **Social Networks:** Discord: Conti#9532;  
 
