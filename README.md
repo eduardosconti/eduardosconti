@@ -2,7 +2,7 @@
 
 📖 **Currently studying** Computer Science on CIn - UFPE;
 
-🌱 **Learning:** Node, bootstrap;
+🌱 **Learning:** Front-end, SQL with JS;
 
 💬 **Social Networks:** Discord: Conti#9532;  
 
